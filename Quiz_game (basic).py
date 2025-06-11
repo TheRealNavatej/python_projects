@@ -62,3 +62,7 @@ else:
 print("Congratulations, you have completed the quiz!")
 print(f"Your final score is: {score} out of 5")
 
+print(f"Your got {score/5*100} out of 100%")
+
+print("Thank you for playing the Quiz Game!")
+print("Goodbye!")
